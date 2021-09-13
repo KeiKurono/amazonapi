@@ -17,7 +17,7 @@
       <div class="content">
       <div class="logo"><a href="#">Mercado libre</a></div>
         <ul class="links">
-          <li><a href="mi.php">Inicio</a></li>
+          <li><a href="index.php">Inicio</a></li>
           <li><a href="https://www.mercadolibre.com.pe/">Comprar</a></li>
         </ul>
       </div>
